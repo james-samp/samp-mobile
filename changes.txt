@@ -1,3 +1,15 @@
+* Update: v1.0.4(b) *
+
+Bug Fixes
++ Blank dialog (auto force close)
++ Control analog while aiming (can't move)
++ Server closed connection
+
+Added
++ New settings menu
++ Rcon Command
++ Client Comamnds (/ccmds)
+
 * Update: v1.0.4 *
 
 Bug Fixes
