@@ -6,7 +6,6 @@ Bug Fixes
 + Server closed connection
 
 Added
-+ New settings menu
 + Rcon Command
 + Client Comamnds (/ccmds)
 
